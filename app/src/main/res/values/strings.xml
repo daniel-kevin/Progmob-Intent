@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile-2005551071</string>
+    <string name="button_profile">Isi Profile</string>
+    <string name="button_simpan">Simpan</string>
+    <string name="placeholder_name">Nama</string>
+    <string name="placeholder_email">Email</string>
+</resources>
